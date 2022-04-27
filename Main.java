@@ -20,5 +20,9 @@ class Main {
         System.out.println("Triangle : " + tWidth + ", " + tLength + 
         "\nResulting Area: " + triangle.calculateArea()
                 + "\nResulting Perimeter: " + triangle.calculateCircumference() + "\n");
+
+  Shape polygon = new Polygon(6);
+    
+    
   }
 }
