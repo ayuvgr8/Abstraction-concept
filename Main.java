@@ -22,6 +22,7 @@ class Main {
                 + "\nResulting Perimeter: " + triangle.calculateCircumference() + "\n");
 
   Shape polygon = new Polygon(6);
+    //extending the current scope of the shape 
     
     
   }
